@@ -1,4 +1,4 @@
-# Hey there, I’m Cleburn 👋
+# Howdy, I’m Cleburn 👋
 
 Welcome to my corner of GitHub! I’m exploring Python, AI/ML, and sharpening my math intuition — learning how these tools can shape the future while keeping the journey creative and enjoyable.
 
