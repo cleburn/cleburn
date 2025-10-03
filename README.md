@@ -28,7 +28,7 @@ Welcome to my corner of GitHub! I’m exploring Python, AI/ML, and sharpening my
 
 ## Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/)  
-- 📧 clebur.nwalker@gmail.com  
+- 📧 cleburn.walker@gmail.com  
 
 ---
 ✨ Thanks for stopping by! If you’re also exploring tech, learning, or building something meaningful — let’s connect.
