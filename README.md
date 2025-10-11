@@ -1,13 +1,17 @@
-# Howdy,  I’m Cleburn 👋
+# 👋 Howdy, I’m Cleburn
 
-Welcome to my corner of GitHub! I’m exploring Python, AI/ML, and sharpening my math intuition — learning how these tools can shape the future while keeping the journey creative and enjoyable.
+Welcome to my corner of GitHub — a growing collection of experiments, analyses, and applied AI projects.  
+I’m developing as an **AI Engineer** with a focus on data-driven systems, automation, and real-world impact.
 
-## About Me
-- 🚀 Currently building projects in Python and experimenting with data analysis + machine learning.  
-- 🧩 I enjoy breaking down complex problems into clear, practical solutions (whether in code or life).  
-- ✍️ Writing is where I think best — and I bring that same clarity into programming.  
-- 👨‍👧‍👦 Full-time single parent of three amazing kids, balancing family life with a passion for tech and creativity.  
-- 🌍 Big-picture goal: build a life of freedom, impact, and curiosity while contributing to projects that help people connect more deeply with each other and the world.  
+---
+
+## 🌱 About Me
+- 🔭 Currently building and sharing projects that combine **Python**, **data analysis**, and **machine learning**.  
+- 🎯 Passionate about turning raw data into clarity — and clarity into intelligent, useful tools.  
+- 🧩 I enjoy breaking down complex systems into practical, well-structured solutions.  
+- ✍️ Writing helps me think; code helps me build — I try to bring both precision and creativity into everything I do.  
+- 👨‍👧‍👦 Full-time single parent of three amazing kids, balancing family life with a deep curiosity for technology and learning.  
+- 🌍 Guiding principle: *intelligence — human or artificial — is meant to serve people.*  
 
 ---
 
@@ -19,16 +23,20 @@ Welcome to my corner of GitHub! I’m exploring Python, AI/ML, and sharpening my
 
 ## 🛠️ Tools & Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-004C99?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/)  
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/cleburnwalker)  
 - 📧 cleburn.walker@gmail.com  
 
 ---
-✨ Thanks for stopping by! If you’re also exploring tech, learning, or building something meaningful — let’s connect.
+
+✨ Thanks for stopping by. If you’re exploring AI, data, or meaningful systems — I’d love to connect and learn together.
