@@ -15,9 +15,12 @@ I’m developing as an **AI Engineer** with a focus on data-driven systems, auto
 
 ---
 
-## 📊 GitHub at a Glance
-![Cleburn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleburn&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cleburn&layout=compact&theme=tokyonight)
+## 🧭 Learning Journey
+- **Python Foundations** ▰▰▰▰▰▰▱▱▱▱ (in daily use)  
+- **NumPy & Pandas** ▰▰▰▰▰▱▱▱▱▱ (current focus)  
+- **Matplotlib & Data Visualization** ▰▰▰▰▰▰▱▱▱▱ (gaining confidence)  
+- **Machine Learning (Scikit-Learn)** ▰▰▰▰▱▱▱▱▱▱ (early exploration)  
+- **AI Integration & Automation** ▰▰▱▱▱▱▱▱▱▱ (coming soon)
 
 ---
 
