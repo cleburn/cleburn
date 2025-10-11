@@ -5,13 +5,13 @@ I’m developing as an **AI Engineer** with a focus on data-driven systems, auto
 
 ---
 
-## 🌱 About Me
-- 🔭 Currently building and sharing projects that combine **Python**, **data analysis**, and **machine learning**.  
-- 🎯 Passionate about turning raw data into clarity — and clarity into intelligent, useful tools.  
-- 🧩 I enjoy breaking down complex systems into practical, well-structured solutions.  
-- ✍️ Writing helps me think; code helps me build — I try to bring both precision and creativity into everything I do.  
-- 👨‍👧‍👦 Full-time single parent of three amazing kids, balancing family life with a deep curiosity for technology and learning.  
-- 🌍 Guiding principle: *intelligence — human or artificial — is meant to serve people.*  
+##  About Me
+-  Currently building and sharing projects that combine **Python**, **data analysis**, and **machine learning**.  
+-  Passionate about turning raw data into clarity — and clarity into intelligent, useful tools.  
+-  I enjoy breaking down complex systems into practical, well-structured solutions.  
+-  Writing helps me think; code helps me build — I try to bring both precision and creativity into everything I do.  
+-  Full-time single parent of three amazing kids, balancing family life with a deep curiosity for technology and learning.  
+-  Guiding principle: *intelligence — human or artificial — is meant to serve people.*  
 
 ---
 
