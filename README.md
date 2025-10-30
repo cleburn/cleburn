@@ -46,7 +46,7 @@ Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of 
 
 ## 🧭 What I'm About
 
-I spent years managing investment properties, leading sales teams, and building businesses. I got good at spotting patterns humans miss and systems humans avoid building. Now I'm learning to code those insights into tools that work at scale.
+I spent years managing investment properties, leading sales teams, and building businesses. I got good at spotting patterns most people miss. Now I'm learning to code those insights into tools that work at scale.
 
 **Guiding principle:** Intelligence — human or artificial — is meant to serve people.
 
