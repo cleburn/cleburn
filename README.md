@@ -8,20 +8,13 @@ I'm moving through a 9-month AI Engineer roadmap — learning in public, buildin
 
 ---
 
-## 🚀 Current Project
+## 🚀 Recent Project
 
 **[Austin Real Estate Investment Analyzer](https://austin-investment-analyzer.streamlit.app)** | [Repo](https://github.com/cleburn/austin-investment-analyzer)
 
 Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of market data. Automates the entire EDA workflow and delivers personalized investment recommendations in seconds based on budget, strategy, and risk tolerance.
 
 **Tech:** Python · Pandas · Streamlit · Deployed on Streamlit Cloud
-
----
-
-## 📊 Recent Work
-
-**[Texas Airbnb Market Analysis](https://github.com/cleburn/texas-airbnb-market-analysis)**  
-Comprehensive EDA on 10,000+ listings using statistical analysis to identify pricing patterns and market dynamics.
 
 ---
 
