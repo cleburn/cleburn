@@ -1,7 +1,5 @@
 # 👋 Howdy, I'm Cleburn
 
----
-
 ## 🚀 Recent Project
 
 **[Austin Real Estate Investment Analyzer](https://austin-investment-analyzer.streamlit.app)** | [Repo](https://github.com/cleburn/austin-investment-analyzer)
