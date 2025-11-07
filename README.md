@@ -1,9 +1,5 @@
 # 👋 Howdy, I'm Cleburn
 
-I build AI systems that bridge human intuition & machine precision.
-
-Right now, that looks like: Python data pipelines, interactive web apps, and tools that automate the research process for real estate investors. Soon it'll be: LLM-powered systems, RAG architectures, and intelligent automation for businesses.
-
 ---
 
 ## 🚀 Recent Project
