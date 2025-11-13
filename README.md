@@ -4,7 +4,7 @@
 
 **[Austin Real Estate Investment Analyzer](https://austin-investment-analyzer.streamlit.app)** | [Repo](https://github.com/cleburn/austin-investment-analyzer)
 
-Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of market data. Automates the entire EDA workflow and delivers personalized investment recommendations in seconds based on budget, strategy, and risk tolerance.
+Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of market data. Automates the entire EDA workflow and delivers personalized investment recommendations in seconds based [...]
 
 **Tech:** Python · Pandas · Streamlit · Deployed on Streamlit Cloud
 
@@ -20,6 +20,7 @@ Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C6EF5?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -38,7 +39,7 @@ Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of 
 
 ## 🧭 What I'm About
 
-I spent years managing investment properties, leading sales teams, and building businesses. I got good at spotting patterns most people miss. Now I'm learning to code those insights into tools that work at scale.
+I spent years managing investment properties, leading sales teams, and building businesses. I got good at spotting patterns most people miss. Now I'm learning to code those insights into tools tha[...] 
 
 **Guiding principle:** Intelligence — human or artificial — is meant to serve people.
 
