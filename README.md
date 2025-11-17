@@ -1,6 +1,6 @@
 # 👋 Howdy, I'm Cleburn
 
-## 🚀 Recent Project
+## Recent Project
 
 **[Austin Real Estate Investment Analyzer](https://austin-investment-analyzer.streamlit.app)** | [Repo](https://github.com/cleburn/austin-investment-analyzer)
 
@@ -11,7 +11,7 @@ Automates the entire EDA workflow and delivers personalized investment recommend
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,7 +46,7 @@ Automates the entire EDA workflow and delivers personalized investment recommend
 
 ---
 
-## 📬 Connect
+## Connect
 
 **LinkedIn:** [linkedin.com/in/cleburnwalker](https://www.linkedin.com/in/cleburnwalker)  
 **Email:** cleburn.walker@gmail.com
@@ -55,4 +55,4 @@ Always open to collaboration, conversation, and learning together.
 
 ---
 
-✨ *Thanks for stopping by. If you're exploring AI, data, or systems that actually solve problems — let's connect.*
+🤝 *Thanks for stopping by. If you're exploring AI, data, or systems that actually solve problems — let's connect.*
