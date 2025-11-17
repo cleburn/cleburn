@@ -4,7 +4,8 @@
 
 **[Austin Real Estate Investment Analyzer](https://austin-investment-analyzer.streamlit.app)** | [Repo](https://github.com/cleburn/austin-investment-analyzer)
 
-Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of market data. Automates the entire EDA workflow and delivers personalized investment recommendations in seconds based [...]
+Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of market data. 
+Automates the entire EDA workflow and delivers personalized investment recommendations in seconds.
 
 **Tech:** Python · Pandas · Streamlit · Deployed on Streamlit Cloud
 
