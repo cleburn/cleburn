@@ -39,12 +39,9 @@ Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of 
 
 ## About me:
 
-I spent years managing investment properties, leading sales teams, and building businesses. I got good at spotting patterns most people miss.
-Now I'm learning to code those insights into tools that create certainty and scalability.
+**Background:** U.S. Marine Corps → Professional Athlete (MMA) → VP of Sales → Real Estate Investor → AI Engineer
 
 **Guiding principle:** Intelligence, whether human or artificial, is meant to serve people.
-
-**Background:** U.S. Marine Corps → Professional Athlete (MMA) → VP of Sales → Real Estate Investor → AI Engineer
 
 ---
 
