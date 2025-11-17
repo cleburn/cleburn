@@ -37,12 +37,12 @@ Live interactive app that analyzes 185 Austin neighborhoods across 25+ years of 
 
 ---
 
-## 🧭 What I'm About
+## About me:
 
 I spent years managing investment properties, leading sales teams, and building businesses. I got good at spotting patterns most people miss.
 Now I'm learning to code those insights into tools that create certainty and scalability.
 
-**Guiding principle:** Intelligence — human or artificial — is meant to serve people.
+**Guiding principle:** Intelligence, whether human or artificial, is meant to serve people.
 
 **Background:** U.S. Marine Corps → Professional Athlete (MMA) → VP of Sales → Real Estate Investor → AI Engineer
 
