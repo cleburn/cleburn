@@ -48,11 +48,7 @@ Automates the entire EDA workflow and delivers personalized investment recommend
 
 ## Connect
 
+🤝 *Thanks for stopping by. If you're exploring AI, data, or systems that actually solve problems — let's connect.*
+
 **LinkedIn:** [linkedin.com/in/cleburnwalker](https://www.linkedin.com/in/cleburnwalker)  
 **Email:** cleburn.walker@gmail.com
-
-Always open to collaboration, conversation, and learning together.
-
----
-
-🤝 *Thanks for stopping by. If you're exploring AI, data, or systems that actually solve problems — let's connect.*
