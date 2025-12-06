@@ -27,3 +27,9 @@
   ## Background
 
   U.S. Marine Corps · Professional Athlete (MMA) · VP of Sales · Real Estate Investor
+
+  ---
+
+  ## Contact
+
+  [LinkedIn](https://linkedin.com/in/cleburnwalker) · [Email](mailto:cleburn.walker@gmail.com)
