@@ -8,9 +8,7 @@
   [Repo](https://github.com/cleburn/austin-investment-analyzer)
 
   Analyzes 3,000+ neighborhoods across 12 Texas and Florida metros using 25 years of market data. Delivers
-   personalized investment recommendations in seconds.
-
-  **Tech:** Python · Pandas · Streamlit
+   personalized investment recommendations instantly.
 
   ---
 
