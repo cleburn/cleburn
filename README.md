@@ -7,8 +7,9 @@
   **[Real Estate Investment Analyzer](https://property-analyst-pro.streamlit.app/)** |
   [Repo](https://github.com/cleburn/austin-investment-analyzer)
 
-  Analyzes 3,000+ neighborhoods across 12 Texas and Florida metros using 25 years of market data. Delivers
-   personalized investment recommendations instantly.
+  **AI-powered tool that helps real estate investors identify the best neighborhoods in Texas and Florida based on cash flow potential and appreciation metrics.**
+
+  **Version 2.1** introduces machine learning predictions with 99.7% accuracy, trained on 25 years of housing data across 12 metro areas and 3,000+ neighborhoods.
 
   ---
 
