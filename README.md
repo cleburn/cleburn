@@ -10,8 +10,8 @@
   **AI-powered tool that helps real estate investors identify the best neighborhoods
   in Texas and Florida based on cash flow potential and appreciation metrics.**       
                                                                                    
-  **Version 2.2** introduces forward-validated ML predictions with 97.4% accuracy,
-  trained on 25 years of housing data across 11 metro areas and 3,000+ neighborhoods.
+  **Version 2.2 introduces forward-validated ML predictions with 97.4% accuracy,
+  trained on 25 years of housing data across 11 metro areas and 3,000+ neighborhoods.**
   ---
 
   ## Tech Stack
