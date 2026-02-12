@@ -8,7 +8,7 @@ Available for data analysis and ML consulting projects
 
 ## Featured Projects
 
-**[Real Estate Investment Analyzer](https://property-analyst-pro.streamlit.app/)** | [Repo](https://github.com/cleburn/property-analyst-pro)  
+**[Real Estate Investment Analyzer App](https://property-analyst-pro.streamlit.app/)** | [Repo](https://github.com/cleburn/property-analyst-pro)  
 AI-powered tool that helps real estate investors identify the best neighborhoods in Texas and Florida based on cash flow potential and appreciation metrics. **Version 2.2 introduces forward-validated ML predictions with 97.4% accuracy, trained on 25 years of housing data across 11 metro areas and 3,000+ neighborhoods.**
 
 **[Amazon Ads Analytics](https://github.com/cleburn/amazon-ads-analytics)** | CLI Tool  
