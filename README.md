@@ -30,7 +30,7 @@ Automated campaign analyzer for Amazon Sponsored Products. Ingests Amazon Ads ex
 
 ## Background
 Bringing 10+ years of business leadership and real-world problem-solving to data engineering.  
-Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate Investor
+Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate Investor · Author
 
 ---
 
