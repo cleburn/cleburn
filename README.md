@@ -41,7 +41,9 @@ AI-powered tool for real estate investors — identifies the best neighborhoods 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 **Languages:** TypeScript · Python · SQL · JavaScript
+
 **Data:** Pandas · NumPy · Scikit-learn
+
 **Tools:** VS Code · Git · Anthropic API · Node.js · Streamlit
 
 ---
