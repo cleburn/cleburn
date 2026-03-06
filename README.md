@@ -21,8 +21,10 @@ Automated campaign analyzer for Amazon Sponsored Products. Ingests Amazon Ads ex
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-**Languages:** Python · SQL  
+**Languages:** Python · SQL · JavaScript · TypeScript  
 **Data:** Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn  
 **Tools:** Jupyter · VS Code · Git · Streamlit Cloud
 
