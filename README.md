@@ -51,6 +51,7 @@ AI-powered tool for real estate investors — identifies the best neighborhoods 
 ## Background
 
 Bringing 10+ years of business leadership and real-world problem-solving to AI engineering.
+
 Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate Investor · Author
 
 ---
