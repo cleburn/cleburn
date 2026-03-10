@@ -19,6 +19,8 @@ The tools exist. The governance doesn't. **Aegis fixes that.**
 
 [![Star Aegis](https://img.shields.io/github/stars/cleburn/aegis?style=social)](https://github.com/cleburn/aegis)
 
+**[ClearHealth](https://github.com/cleburn/clearhealth)** — HIPAA-compliant healthcare platform built entirely by a 5-agent AI swarm governed by Aegis. 65+ files, 27 minutes, zero governance violations. The test environment that proved the concept.
+
 ---
 
 ## Other Projects
