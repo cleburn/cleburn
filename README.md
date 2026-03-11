@@ -20,7 +20,7 @@ An open specification for structured AI agent governance. Scoped roles, enforced
 
 The tools exist. The governance doesn't. **Aegis fixes that.**
 
-[![Star the Spec](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Star%20the%20Spec)](https://github.com/cleburn/aegis-spec) [![Star the CLI](https://img.shields.io/github/stars/cleburn/aegis-cli?style=social&label=Star%20the%20CLI)](https://github.com/cleburn/aegis-cli)
+[![Stars for Spec](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Star%20the%20Spec)](https://github.com/cleburn/aegis-spec) [![Stars for CLI](https://img.shields.io/github/stars/cleburn/aegis-cli?style=social&label=Star%20the%20CLI)](https://github.com/cleburn/aegis-cli)
 
 **[ClearHealth](https://github.com/cleburn/clearhealth)** — HIPAA-compliant healthcare platform built entirely by a 5-agent AI swarm governed by Aegis. 65+ files, 27 minutes, zero governance violations. The test environment that proved the concept.
 
