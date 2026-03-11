@@ -1,23 +1,26 @@
 # Howdy, I'm Cleburn
 
 Former Marine, VP of Sales, and real estate investor turned AI engineer.
+
 Building tools that make AI agents smarter, more structured, and easier to work with.
 
 ---
 
 ## Featured Project
 
-<a href="https://github.com/cleburn/aegis">
-  <img src="https://raw.githubusercontent.com/cleburn/aegis/main/aegis-banner.svg" alt="Aegis — Structured governance for AI agents" width="800" />
+<a href="https://github.com/cleburn/aegis-cli">
+  <img src="https://raw.githubusercontent.com/cleburn/aegis-cli/main/aegis-banner.svg" alt="Aegis — Structured governance for AI agents" width="800" />
 </a>
 
-**[Aegis](https://github.com/cleburn/aegis)** — `.editorconfig` for AI agents.
+**[Aegis Governance Spec](https://github.com/cleburn/aegis-spec)** — `.editorconfig` for AI agents.
 
-Run `aegis init`, have a conversation, and give every AI agent that touches your codebase a structured operating contract — scoped roles, enforced permissions, autonomy levels, and coordination protocols. Schema-validated, machine-parseable, agent-agnostic.
+An open specification for structured AI agent governance. Scoped roles, enforced permissions, autonomy levels, and coordination protocols — schema-validated, machine-parseable, agent-agnostic. Apache 2.0.
+
+**[Aegis CLI](https://github.com/cleburn/aegis-cli)** — the reference implementation. Run `aegis init`, have a conversation, and generate a complete `.agentpolicy/` directory for your codebase.
 
 The tools exist. The governance doesn't. **Aegis fixes that.**
 
-[![Star Aegis](https://img.shields.io/github/stars/cleburn/aegis?style=social)](https://github.com/cleburn/aegis)
+[![Star the Spec](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Star%20the%20Spec)](https://github.com/cleburn/aegis-spec) [![Star the CLI](https://img.shields.io/github/stars/cleburn/aegis-cli?style=social&label=Star%20the%20CLI)](https://github.com/cleburn/aegis-cli)
 
 **[ClearHealth](https://github.com/cleburn/clearhealth)** — HIPAA-compliant healthcare platform built entirely by a 5-agent AI swarm governed by Aegis. 65+ files, 27 minutes, zero governance violations. The test environment that proved the concept.
 
@@ -26,10 +29,13 @@ The tools exist. The governance doesn't. **Aegis fixes that.**
 ## Other Projects
 
 **[Amazon Ads Analytics](https://github.com/cleburn/amazon-ads-analytics)** | CLI Tool
+
 Automated campaign analyzer for Amazon Sponsored Products. Ingests Amazon Ads exports and KDP sales data, produces weekly performance reports with actionable flags and bid recommendations.
+
 **SQLite-backed trend tracking with ASIN resolution, attribution gap detection, and max-profitable-bid calculations.**
 
 **[Real Estate Investment Analyzer](https://github.com/cleburn/property-analyst-pro)** | [Live App](https://property-analyst-pro.streamlit.app/)
+
 AI-powered tool for real estate investors — identifies the best neighborhoods in Texas and Florida based on cash flow potential and appreciation metrics.
 
 ---
