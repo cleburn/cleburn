@@ -38,7 +38,7 @@ Automated campaign analyzer for Amazon Sponsored Products. Ingests Amazon Ads ex
 **SQLite-backed trend tracking with ASIN resolution, attribution gap detection, and max-profitable-bid calculations.**
 
 **[Real Estate Investment Analyzer](https://github.com/cleburn/property-analyst-pro)** | [Live App](https://property-analyst-pro.streamlit.app/)
-AI-powered tool for real estate investors — identifies the best neighborhoods in Texas and Florida based on cash flow potential and appreciation metrics.
+ML-powered tool for real estate investors — identifies the best neighborhoods in Texas and Florida based on cash flow potential and appreciation metrics.
 
 ---
 
