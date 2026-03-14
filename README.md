@@ -1,7 +1,6 @@
 # Howdy, I'm Cleburn
 
 Former Marine, VP of Sales, and real estate investor turned AI engineer.
-
 Building tools that make AI agents smarter, more structured, and easier to work with.
 
 ---
@@ -20,22 +19,25 @@ An open specification for structured AI agent governance. Scoped roles, enforced
 
 The tools exist. The governance doesn't. **Aegis fixes that.**
 
-[![Star](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Fork](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
+[![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
 
-**[ClearHealth](https://github.com/cleburn/clearhealth)** — HIPAA-compliant healthcare platform built entirely by a 5-agent AI swarm governed by Aegis. 65+ files, 27 minutes, zero governance violations. The test environment that proved the concept.
+### Stress Tested in the Two Most Regulated Industries
+
+**[ClearHealth](https://github.com/cleburn/clearhealth)** — HIPAA-compliant healthcare platform built entirely by a 5-agent AI swarm governed by Aegis. 65+ files, 27 minutes, zero governance violations.
+
+**[ClearFinTech](https://github.com/cleburn/clearfintech)** — PCI-DSS, SOX, and AML/KYC-compliant fintech platform. A non-technical CEO described compliance requirements in plain English. Aegis translated that into 11 governance files across 8 agent roles. Claude Code built the entire platform from a single sentence: 56+ files, 109 tests, CI passing on the first push.
+
+Same spec. Different industries. Zero code changes between them.
 
 ---
 
 ## Other Projects
 
 **[Amazon Ads Analytics](https://github.com/cleburn/amazon-ads-analytics)** | CLI Tool
-
 Automated campaign analyzer for Amazon Sponsored Products. Ingests Amazon Ads exports and KDP sales data, produces weekly performance reports with actionable flags and bid recommendations.
-
 **SQLite-backed trend tracking with ASIN resolution, attribution gap detection, and max-profitable-bid calculations.**
 
 **[Real Estate Investment Analyzer](https://github.com/cleburn/property-analyst-pro)** | [Live App](https://property-analyst-pro.streamlit.app/)
-
 AI-powered tool for real estate investors — identifies the best neighborhoods in Texas and Florida based on cash flow potential and appreciation metrics.
 
 ---
@@ -49,9 +51,7 @@ AI-powered tool for real estate investors — identifies the best neighborhoods 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 **Languages:** TypeScript · Python · SQL · JavaScript
-
 **Data:** Pandas · NumPy · Scikit-learn
-
 **Tools:** VS Code · Git · Anthropic API · Node.js · Streamlit
 
 ---
@@ -59,7 +59,6 @@ AI-powered tool for real estate investors — identifies the best neighborhoods 
 ## Background
 
 Bringing 10+ years of business leadership and real-world problem-solving to AI engineering.
-
 Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate Investor · Author
 
 ---
