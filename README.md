@@ -15,11 +15,12 @@ Building tools that make AI agents smarter, more structured, and easier to work 
 
 An open specification for structured AI agent governance. Scoped roles, enforced permissions, autonomy levels, and coordination protocols — schema-validated, machine-parseable, agent-agnostic. Apache 2.0.
 
+[![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
+
 **[Aegis CLI](https://github.com/cleburn/aegis-cli)** — the reference implementation. Run `aegis init`, have a conversation, and generate a complete `.agentpolicy/` directory for your codebase.
 
 The tools exist. The governance doesn't. **Aegis fixes that.**
 
-[![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
 
 ### Stress Tested in the Two Most Regulated Industries
 
