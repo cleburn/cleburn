@@ -1,26 +1,25 @@
 # Howdy, I'm Cleburn
 
 Former Marine, VP of Sales, and real estate investor turned AI engineer.
-Building tools that make AI agents smarter, more structured, and easier to work with.
+Building the governance layer that's missing from every AI agent workflow.
 
 ---
 
-## Featured Project
+## Aegis🛡️ End-to-End Governance for AI Agents
 
 <a href="https://github.com/cleburn/aegis-cli">
   <img src="https://raw.githubusercontent.com/cleburn/aegis-cli/main/aegis-banner.svg" alt="Aegis — Structured governance for AI agents" width="800" />
 </a>
 
-**[Aegis Governance Spec](https://github.com/cleburn/aegis-spec)** — `.editorconfig` for AI agents.
+The only end-to-end governance framework for AI agents. The spec defines the law. The CLI generates it from a single conversation. The MCP enforces it at runtime. From the engine out.
 
-An open specification for structured AI agent governance. Scoped roles, enforced permissions, autonomy levels, and coordination protocols — schema-validated, machine-parseable, agent-agnostic. Apache 2.0.
+| Layer | Repo | What it does |
+|-------|------|-------------|
+| **Spec** | [aegis-spec](https://github.com/cleburn/aegis-spec) | Open governance standard. Scoped roles, enforced permissions, autonomy levels, coordination protocols. Apache 2.0. |
+| **CLI** | [aegis-cli](https://github.com/cleburn/aegis-cli) | Reference implementation. Run `aegis init`, have a conversation, generate a complete `.agentpolicy/` directory. MIT. |
+| **MCP** | [aegis-mcp](https://github.com/cleburn/aegis-mcp) | Runtime enforcement. Loads policy into server memory, validates every agent action before execution. Zero token overhead. MIT. |
 
 [![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
-
-**[Aegis CLI](https://github.com/cleburn/aegis-cli)** — the reference implementation. Run `aegis init`, have a conversation, and generate a complete `.agentpolicy/` directory for your codebase.
-
-The tools exist. The governance doesn't. **Aegis fixes that.**
-
 
 ### Stress Tested in the Two Most Regulated Industries
 
@@ -53,9 +52,7 @@ ML-powered tool for real estate investors — identifies the best neighborhoods 
 
 **Languages:** TypeScript · Python · SQL · JavaScript
 
-**Data:** Pandas · NumPy · Scikit-learn
-
-**Tools:** VS Code · Git · Anthropic API · Node.js · Streamlit
+**Tools:** VS Code · Git · Anthropic API · Node.js · MCP SDK
 
 ---
 
