@@ -19,7 +19,7 @@ The only end-to-end governance framework for AI agents. The spec defines the law
 | **CLI** | [aegis-cli](https://github.com/cleburn/aegis-cli) | Reference implementation. Run `aegis init`, have a conversation, generate a complete `.agentpolicy/` directory. MIT. |
 | **MCP** | [aegis-mcp](https://github.com/cleburn/aegis-mcp) | Runtime enforcement. Loads policy into server memory, validates every agent action before execution. Zero token overhead. MIT. |
 
-**Spec** [![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
+[![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
 
 ### Stress Tested in the Two Most Regulated Industries
 
