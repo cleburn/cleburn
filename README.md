@@ -25,7 +25,7 @@ The only end-to-end governance framework for AI agents. The spec defines the law
 
 **[ClearHealth](https://github.com/cleburn/clearhealth)** — HIPAA-compliant healthcare platform built entirely by a 5-agent AI swarm governed by Aegis. 65+ files, 27 minutes, zero governance violations.
 
-**[ClearFinTech](https://github.com/cleburn/clearfintech)** — PCI-DSS, SOX, and AML/KYC-compliant fintech platform. A non-technical CEO described compliance requirements in plain English. Aegis translated that into 11 governance files across 8 agent roles. Claude Code built the entire platform from a single sentence: 56+ files, 109 tests, CI passing on the first push.
+**[ClearFinTech](https://github.com/cleburn/clearfintech)** — PCI-DSS, SOX, and AML/KYC-compliant fintech platform. A non-technical CEO described compliance requirements in plain English. Aegis translated that into 11 governance files across 8 agent roles. Claude Code built the entire platform from a single prompt: 56+ files, 109 tests, CI passing on the first push.
 
 Same spec. Different industries. Zero code changes between them.
 
