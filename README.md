@@ -49,8 +49,9 @@ ML-powered tool for real estate investors — identifies the best neighborhoods 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-**Languages:** TypeScript · Python · SQL · JavaScript
+**Languages:** TypeScript · Python · SQL · JavaScript · HTML
 
 **Tools:** VS Code · Git · Anthropic API · Node.js · MCP SDK
 
