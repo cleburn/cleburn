@@ -1,8 +1,7 @@
 # Howdy, I'm Cleburn
 
 Former Marine, VP of Sales, and real estate investor turned AI engineer.
-Building the governance layer that's missing from every AI agent workflow.
-
+I built the governance layer that's been missing from every AI agent workflow.
 ---
 
 ## Aegis🛡️ End-to-End Governance for AI Agents
@@ -11,7 +10,7 @@ Building the governance layer that's missing from every AI agent workflow.
   <img src="https://raw.githubusercontent.com/cleburn/aegis-cli/main/aegis-banner.svg" alt="Aegis — Structured governance for AI agents" width="800" />
 </a>
 
-The only end-to-end governance framework for AI agents. The spec defines the law. The CLI generates it from a single conversation. The MCP enforces it at runtime. From the engine out.
+The only end-to-end governance framework for AI agents. Policy at the root. Enforcement at runtime. Accountability on every action.
 
 | Layer | Repo | What it does |
 |-------|------|-------------|
