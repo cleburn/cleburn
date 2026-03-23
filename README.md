@@ -26,7 +26,7 @@ The only end-to-end governance framework for AI agents. Policy at the root. Enfo
 
 **[ClearFinTech](https://github.com/cleburn/clearfintech)** — PCI-DSS, SOX, and AML/KYC-compliant fintech platform. A non-technical CEO described compliance requirements in plain English. Aegis translated that into 11 governance files across 8 agent roles. Claude Code built the entire platform from a single prompt: 56+ files, 109 tests, CI passing on the first push.
 
-Same spec. Different industries. Zero code changes between them.
+Same spec. Different industries. Aegis adapts to the scope of any project.
 
 ---
 
