@@ -20,7 +20,7 @@ The only end-to-end governance framework for AI agents. Policy at the root. Enfo
 
 [![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
 
-### Stress Tested in the Two Most Regulated Industries
+### Stress Tested in the Three Most Regulated Industries
 
 **[ClearDefense](https://github.com/cleburn/cleardefense)** — CMMC Level 2, ITAR, DFARS 7012/7021, and CUI handling across three categories. A VP of Programs dropped a charter.docx into an empty repo. Aegis read the document, ran a discovery conversation, and generated governance for six agent roles with domain-routed escalation, immutable compliance policies, and NIST 800-171 control mappings. Claude Code built the platform in 23 minutes. 412 tests, all passing.
 
