@@ -2,6 +2,7 @@
 
 Former Marine, VP of Sales, and real estate investor turned AI engineer.
 I built the governance layer that's been missing from every AI agent workflow.
+
 ---
 
 ## Aegis🛡️ End-to-End Governance for AI Agents
