@@ -13,13 +13,13 @@ I built the governance layer that's been missing from every AI agent workflow.
 
 The only end-to-end governance framework for AI agents. Policy at the root. Enforcement at runtime. Accountability on every action.
 
+[![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
+
 | Layer | Repo | What it does |
 |-------|------|-------------|
 | **Spec** | [aegis-spec](https://github.com/cleburn/aegis-spec) | Open governance standard. Scoped roles, enforced permissions, autonomy levels, coordination protocols. Apache 2.0. |
 | **CLI** | [aegis-cli](https://github.com/cleburn/aegis-cli) | Reference implementation. Run `aegis init`, have a conversation, generate a complete `.agentpolicy/` directory. MIT. |
 | **MCP** | [aegis-mcp](https://github.com/cleburn/aegis-mcp) | Runtime enforcement. Loads policy into server memory, validates every agent action before execution. Zero token overhead. MIT. |
-
-[![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
 
 ### Stress Tested in the Three Most Regulated Industries
 
