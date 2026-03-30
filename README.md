@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/cleburn/aegis-cli/main/aegis-banner.svg" alt="Aegis — Structured governance for AI agents" width="800" />
 </a>
 
-The only end-to-end governance framework for AI agents. Policy at the root. Enforcement at runtime. Accountability on every action.
+The only end-to-end governance framework for AI agents. 
 
 [![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
 
