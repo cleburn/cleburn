@@ -1,11 +1,8 @@
 # Howdy, I'm Cleburn
 
-Former Marine, VP of Sales, and real estate investor turned AI engineer.
-I built the governance layer that's been missing from every AI agent workflow.
+I like finding solutions to problems that are either underserved or personally unavoidable. The process is always the same: notice a pattern, trace where it's heading, and build something that changes the trajectory.
 
 ---
-
-## Aegis🛡️ End-to-End Governance for AI Agents
 
 <a href="https://github.com/cleburn/aegis-cli">
   <img src="https://raw.githubusercontent.com/cleburn/aegis-cli/main/aegis-banner.svg" alt="Aegis — Structured governance for AI agents" width="800" />
