@@ -5,6 +5,8 @@
 
 ---
 
+## Top Project
+
 <a href="https://github.com/cleburn/aegis-cli">
   <img src="https://raw.githubusercontent.com/cleburn/aegis-cli/main/aegis-banner.svg" alt="Aegis — Structured governance for AI agents" width="800" />
 </a>
