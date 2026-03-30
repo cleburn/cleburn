@@ -1,7 +1,7 @@
 # Howdy, I'm Cleburn
 
-I like finding solutions to problems that are either underserved or personally unavoidable. 
-The process is always the same: notice a pattern, trace where it's heading, and build something that changes the trajectory.
+**I like finding solutions to problems that are either underserved or personally unavoidable.** 
+**The process is always the same: notice a pattern, trace where it's heading, and build something that changes the trajectory.**
 
 ---
 
