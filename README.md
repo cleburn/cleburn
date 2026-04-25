@@ -25,12 +25,12 @@ The only end-to-end governance framework for AI agents.
 
 **[ClearDefense](https://github.com/cleburn/cleardefense)** — CMMC Level 2, ITAR, DFARS 7012/7021, and CUI handling across three categories. A VP of Programs dropped a charter.docx into an empty repo. Aegis read the document, ran a discovery conversation, and generated governance for six agent roles with domain-routed escalation, immutable compliance policies, and NIST 800-171 control mappings. Claude Code built the platform in 23 minutes. 412 tests, all passing. 
 
-![CI](https://github.com/cleburn/cleardefense/actions/workflows/ci.yml/badge.svg)  |  ![Checkov](https://img.shields.io/badge/Checkov-passing-brightgreen?style=flat)
+![CI](https://github.com/cleburn/cleardefense/actions/workflows/ci.yml/badge.svg) ![Checkov](https://img.shields.io/badge/Checkov-passing-brightgreen?style=flat)
 
 
 **[ClearFinTech](https://github.com/cleburn/clearfintech)** — PCI-DSS, SOX, and AML/KYC-compliant fintech platform. A non-technical CEO described compliance requirements in plain English. Aegis translated that into 11 governance files across 8 agent roles. Claude Code built the entire platform from a single prompt: 56+ files, 109 tests, CI passing on the first push. 
 
-![CI](https://github.com/cleburn/clearfintech/actions/workflows/ci.yml/badge.svg)  |  [![Snyk](https://github.com/cleburn/clearfintech/actions/workflows/snyk.yml/badge.svg)](https://github.com/cleburn/clearfintech/actions/workflows/snyk.yml)  
+![CI](https://github.com/cleburn/clearfintech/actions/workflows/ci.yml/badge.svg) [![Snyk](https://github.com/cleburn/clearfintech/actions/workflows/snyk.yml/badge.svg)](https://github.com/cleburn/clearfintech/actions/workflows/snyk.yml)  
 
 
 **[ClearHealth](https://github.com/cleburn/clearhealth)** — HIPAA-compliant healthcare platform built entirely by a 5-agent AI swarm governed by Aegis. 65+ files, 27 minutes, zero governance violations. 
