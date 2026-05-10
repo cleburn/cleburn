@@ -3,8 +3,6 @@
 **I like finding solutions to problems that are either underserved or personally unavoidable.** 
 **The process is always the same: notice a pattern, trace where it's heading, and build something that changes the trajectory.**
 
-![cleburn's GitHub stats](https://my-github-stats-one-lemon.vercel.app/api?username=cleburn&show_icons=true&count_private=true&theme=default)
-
 ---
 
 ## Top Project
@@ -67,6 +65,8 @@ ML-powered tool for real estate investors — identifies the best neighborhoods 
 **Languages:** TypeScript · Python · SQL · JavaScript · HTML · CSS
 
 **Tools:** VS Code · Git · Anthropic API · Node.js · MCP SDK
+
+![cleburn's GitHub stats](https://my-github-stats-one-lemon.vercel.app/api?username=cleburn&show_icons=true&count_private=true&theme=default)
 
 ---
 
