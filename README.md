@@ -3,7 +3,7 @@
 **I like finding solutions to problems that are either underserved or personally unavoidable.** 
 **The process is always the same: notice a pattern, trace where it's heading, and build something that changes the trajectory.**
 
-![cleburn's GitHub metrics](https://metrics.lecoq.io/cleburn?template=classic)
+![cleburn's GitHub stats](https://my-github-stats-one-lemon.vercel.app/api?username=cleburn&show_icons=true&count_private=true&theme=default)
 
 ---
 
