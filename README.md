@@ -66,7 +66,7 @@ ML-powered tool for real estate investors — identifies the best neighborhoods 
 
 **Tools:** VS Code · Git · Anthropic API · Node.js · MCP SDK
 
-![cleburn's GitHub stats](https://my-github-stats-one-lemon.vercel.app/api?username=cleburn&show_icons=true&count_private=true&theme=default)
+![cleburn's GitHub stats](https://my-github-stats-one-lemon.vercel.app/api?username=cleburn&show_icons=true&count_private=true&theme=navy)
 
 ---
 
