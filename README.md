@@ -2,8 +2,6 @@
 
 **I build data pipelines that turn public information into financial decisions.**
 
-The process is always the same: notice a pattern, trace where it's heading, and build something that improves the trajectory. Most of my work answers a money question — *what should this bid be, which neighborhood, is this edge real* — by getting the data engineering right first: capture signals at the source, preserve the raw evidence, and let the pipeline do the arguing.
-
 ---
 
 ## Market Intelligence
