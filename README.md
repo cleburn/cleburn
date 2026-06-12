@@ -28,8 +28,6 @@ Ranks neighborhoods in Texas and Florida by cash flow potential and appreciation
 **[Amazon Ads Analytics](https://github.com/cleburn/amazon-ads-analytics)**
 CLI analyzer for the Amazon Sponsored Products campaigns behind my published book series. Ingests Amazon Ads exports and KDP sales data, reconciles attribution gaps, tracks trends in SQLite, and turns it all into weekly reports with max-profitable-bid recommendations — every bid change is backed by the pipeline.
 
-**Market research** — [Texas housing rental trends & forecasting](https://github.com/cleburn/texas-housing-markets-2025) · [Austin Airbnb market analysis](https://github.com/cleburn/austin-airbnb-market-analysis) · [California housing regression](https://github.com/cleburn/california-housing-regression)
-
 ---
 
 ## Aegis — Governance for AI Agents
