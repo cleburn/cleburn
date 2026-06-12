@@ -1,6 +1,6 @@
 # Howdy, I'm Cleburn
 
-**I build data pipelines that turn public information into financial decisions.**
+**I build data pipelines that inform financial decisions.**
 
 ---
 
