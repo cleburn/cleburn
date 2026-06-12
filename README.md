@@ -2,11 +2,17 @@
 
 **I build data pipelines that inform financial decisions.**
 
+## Background
+
+Bringing 10+ years of business leadership and real-world problem-solving to AI engineering.
+Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate Investor · Author
+
 ---
 
 ## Market Intelligence
 
 **Project Information Advantage** · *private while in active development*
+
 An entity-agnostic discovery pipeline that captures market-relevant public signals at their source — SEC EDGAR filings (Form 4, 8-K), federal contract awards (SAM.gov, USAspending), healthcare catalysts (openFDA, ClinicalTrials.gov), and regulatory events (FTC HSR, lobbying disclosures) — then resolves noisy entity names to public tickers and surfaces cross-source events with strict alert idempotency.
 
 - Always-on ingestion via systemd daemons and timers on a headless Linux host
@@ -14,6 +20,7 @@ An entity-agnostic discovery pipeline that captures market-relevant public signa
 - Raw evidence preserved at capture, so every alert traces back to its source document
 
 **[Kalshi Longshot Maker](https://github.com/cleburn/market-maker-bot)** · *retired, by the numbers*
+
 A maker-side prediction-market bot and autonomous research lab grounded in the favorite-longshot bias literature. Three nodes with strict role separation — a research lab discovers, a control plane governs, an execution node trades — and research can never authorize capital; only the approval gate can. Retired after out-of-sample validation showed the targeted edge wasn't capturable after costs. The pipeline did exactly its job: it answered the question before the capital did.
 
 ---
@@ -21,9 +28,11 @@ A maker-side prediction-market bot and autonomous research lab grounded in the f
 ## Decision Tools with Real Money on the Line
 
 **[Real Estate Investment Analyzer](https://github.com/cleburn/property-analyst-pro)** · [Live App](https://property-analyst-pro.streamlit.app/)
+
 Ranks neighborhoods in Texas and Florida by cash flow potential and appreciation, using forward-validated ML predictions trained on 25 years of housing data across 11 metro areas and 3,000+ neighborhoods.
 
 **[Amazon Ads Analytics](https://github.com/cleburn/amazon-ads-analytics)**
+
 CLI analyzer for the Amazon Sponsored Products campaigns behind my published book series. Ingests Amazon Ads exports and KDP sales data, reconciles attribution gaps, tracks trends in SQLite, and turns it all into weekly reports with max-profitable-bid recommendations — every bid change is backed by the pipeline.
 
 ---
@@ -53,13 +62,6 @@ Much of the work above is built with AI agents, which raised its own problem wor
 **Systems:** TypeScript · Node.js · systemd · Git · MCP SDK
 
 ![cleburn's GitHub stats](https://my-github-stats-one-lemon.vercel.app/api?username=cleburn&show_icons=true&count_private=true&theme=nightowl)
-
----
-
-## Background
-
-Bringing 10+ years of business leadership and real-world problem-solving to AI engineering.
-Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate Investor · Author
 
 ---
 
