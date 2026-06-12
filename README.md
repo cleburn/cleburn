@@ -1,70 +1,56 @@
 # Howdy, I'm Cleburn
 
-**I like finding solutions to problems that are either underserved or personally unavoidable.** 
-**The process is always the same: notice a pattern, trace where it's heading, and build something that changes the trajectory.**
+**I build data pipelines that turn public information into financial decisions.**
+
+The process is always the same: notice a pattern, trace where it's heading, and build something that improves the trajectory. Most of my work answers a money question — *what should this bid be, which neighborhood, is this edge real* — by getting the data engineering right first: capture signals at the source, preserve the raw evidence, and let the pipeline do the arguing.
 
 ---
 
-## Top Project
+## Market Intelligence
 
-<a href="https://github.com/cleburn/aegis-cli">
-  <img src="https://raw.githubusercontent.com/cleburn/aegis-cli/main/aegis-banner.svg" alt="Aegis — Structured governance for AI agents" width="800" />
-</a>
+**Project Information Advantage** · *private while in active development*
+An entity-agnostic discovery pipeline that captures market-relevant public signals at their source — SEC EDGAR filings (Form 4, 8-K), federal contract awards (SAM.gov, USAspending), healthcare catalysts (openFDA, ClinicalTrials.gov), and regulatory events (FTC HSR, lobbying disclosures) — then resolves noisy entity names to public tickers and surfaces cross-source events with strict alert idempotency.
 
-The only end-to-end governance framework for AI agents. 
+- Always-on ingestion via systemd daemons and timers on a headless Linux host
+- JSONL spools drained into DuckDB micro-batches for crash-safe, append-only storage
+- Raw evidence preserved at capture, so every alert traces back to its source document
 
-[![Stars](https://img.shields.io/github/stars/cleburn/aegis-spec?style=social&label=Stars)](https://github.com/cleburn/aegis-spec) [![Forks](https://img.shields.io/github/forks/cleburn/aegis-spec?style=social&label=Forks)](https://github.com/cleburn/aegis-spec)
-
-| Layer | Repo | What it does |
-|-------|------|-------------|
-| **Spec** | [aegis-spec](https://github.com/cleburn/aegis-spec) | Open governance standard. Scoped roles, enforced permissions, autonomy levels, coordination protocols. Apache 2.0. |
-| **CLI** | [aegis-cli](https://github.com/cleburn/aegis-cli) | Reference implementation. Run `aegis init`, have a conversation, generate a complete `.agentpolicy/` directory. MIT. |
-| **MCP** | [aegis-mcp](https://github.com/cleburn/aegis-mcp) | Runtime enforcement. Loads policy into server memory, validates every agent action before execution. Zero token overhead. MIT. |
-
-### Stress Tested in the Three Most Regulated Industries
-
-**[ClearDefense](https://github.com/cleburn/cleardefense)** — CMMC Level 2, ITAR, DFARS 7012/7021, and CUI handling across three categories. A VP of Programs dropped a charter.docx into an empty repo. Aegis read the document, ran a discovery conversation, and generated governance for six agent roles with domain-routed escalation, immutable compliance policies, and NIST 800-171 control mappings. Claude Code built the platform in 23 minutes. 412 tests, all passing. 
-
-![CI](https://github.com/cleburn/cleardefense/actions/workflows/ci.yml/badge.svg) ![Checkov](https://img.shields.io/badge/Checkov-passing-brightgreen?style=flat)
-
-
-**[ClearFinTech](https://github.com/cleburn/clearfintech)** — PCI-DSS, SOX, and AML/KYC-compliant fintech platform. A non-technical CEO described compliance requirements in plain English. Aegis translated that into 11 governance files across 8 agent roles. Claude Code built the entire platform from a single prompt: 56+ files, 109 tests, CI passing on the first push. 
-
-![CI](https://github.com/cleburn/clearfintech/actions/workflows/ci.yml/badge.svg) [![Snyk](https://github.com/cleburn/clearfintech/actions/workflows/snyk.yml/badge.svg)](https://github.com/cleburn/clearfintech/actions/workflows/snyk.yml)  
-
-
-**[ClearHealth](https://github.com/cleburn/clearhealth)** — HIPAA-compliant healthcare platform built entirely by a 5-agent AI swarm governed by Aegis. 65+ files, 27 minutes, zero governance violations. 
-
-![CI](https://github.com/cleburn/clearhealth/actions/workflows/ci.yml/badge.svg)
-
-Same spec. Different industries. Aegis adapts to the scope of any project.
+**[Kalshi Longshot Maker](https://github.com/cleburn/market-maker-bot)** · *retired, by the numbers*
+A maker-side prediction-market bot and autonomous research lab grounded in the favorite-longshot bias literature. Three nodes with strict role separation — a research lab discovers, a control plane governs, an execution node trades — and research can never authorize capital; only the approval gate can. Retired after out-of-sample validation showed the targeted edge wasn't capturable after costs. The pipeline did exactly its job: it answered the question before the capital did.
 
 ---
 
-## Other Projects
+## Decision Tools with Real Money on the Line
 
-**[Amazon Ads Analytics](https://github.com/cleburn/amazon-ads-analytics)** | CLI Tool
-Automated campaign analyzer for Amazon Sponsored Products. Ingests Amazon Ads exports and KDP sales data, produces weekly performance reports with actionable flags and bid recommendations.
-**SQLite-backed trend tracking with ASIN resolution, attribution gap detection, and max-profitable-bid calculations.**
+**[Real Estate Investment Analyzer](https://github.com/cleburn/property-analyst-pro)** · [Live App](https://property-analyst-pro.streamlit.app/)
+Ranks neighborhoods in Texas and Florida by cash flow potential and appreciation, using forward-validated ML predictions trained on 25 years of housing data across 11 metro areas and 3,000+ neighborhoods.
 
-**[Real Estate Investment Analyzer](https://github.com/cleburn/property-analyst-pro)** | [Live App](https://property-analyst-pro.streamlit.app/)
-ML-powered tool for real estate investors — identifies the best neighborhoods in Texas and Florida based on cash flow potential and appreciation metrics.
+**[Amazon Ads Analytics](https://github.com/cleburn/amazon-ads-analytics)**
+CLI analyzer for the Amazon Sponsored Products campaigns behind my published book series. Ingests Amazon Ads exports and KDP sales data, reconciles attribution gaps, tracks trends in SQLite, and turns it all into weekly reports with max-profitable-bid recommendations — every bid change is backed by the pipeline.
+
+**Market research** — [Texas housing rental trends & forecasting](https://github.com/cleburn/texas-housing-markets-2025) · [Austin Airbnb market analysis](https://github.com/cleburn/austin-airbnb-market-analysis) · [California housing regression](https://github.com/cleburn/california-housing-regression)
+
+---
+
+## Aegis — Governance for AI Agents
+
+Much of the work above is built with AI agents, which raised its own problem worth solving: agents need enforceable rules, not vibes. So I built **Aegis**, an open end-to-end governance framework — a [spec](https://github.com/cleburn/aegis-spec) defining scoped roles, permissions, and autonomy levels; a [CLI](https://github.com/cleburn/aegis-cli) that generates a complete policy from a conversation; and an [MCP server](https://github.com/cleburn/aegis-mcp) that validates every agent action at runtime. Stress-tested by generating compliant platforms in [defense](https://github.com/cleburn/cleardefense) (CMMC/ITAR), [fintech](https://github.com/cleburn/clearfintech) (PCI-DSS/SOX), and [healthcare](https://github.com/cleburn/clearhealth) (HIPAA).
 
 ---
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
 
-**Languages:** TypeScript · Python · SQL · JavaScript · HTML · CSS
+**Data:** Python · SQL · DuckDB · SQLite · Pandas · scikit-learn · statsmodels · Streamlit
 
-**Tools:** VS Code · Git · Node.js · MCP SDK
+**Systems:** TypeScript · Node.js · systemd · Git · MCP SDK
 
 ![cleburn's GitHub stats](https://my-github-stats-one-lemon.vercel.app/api?username=cleburn&show_icons=true&count_private=true&theme=nightowl)
 
