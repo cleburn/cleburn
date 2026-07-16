@@ -31,7 +31,7 @@ A maker-side prediction-market bot and autonomous research lab grounded in the f
 
 ---
 
-## Decision Tools with Real Money on the Line
+## Decision Tools for Deploying Real Capital
 
 **[Real Estate Investment Analyzer](https://github.com/cleburn/property-analyst-pro)** · [Live App](https://property-analyst-pro.streamlit.app/)
 
