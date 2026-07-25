@@ -22,6 +22,8 @@ Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate I
 
 Much of my projects were built with AI agents, which raised its own problem worth solving: agents need enforceable rules. So I built **Aegis**, an open-source, end-to-end governance framework — a [spec](https://github.com/cleburn/aegis-spec) defining scoped roles, permissions, and autonomy levels; a [CLI](https://github.com/cleburn/aegis-cli) that generates a complete policy from a conversation; and an [MCP server](https://github.com/cleburn/aegis-mcp) that validates and permits/denies every agent action at runtime. Stress-tested by generating compliant platforms in [defense](https://github.com/cleburn/cleardefense) (CMMC/ITAR), [fintech](https://github.com/cleburn/clearfintech) (PCI-DSS/SOX), and [healthcare](https://github.com/cleburn/clearhealth) (HIPAA).
 
+**[Aegis](https://cleburn.github.io/)**
+
 ---
 
 ## Other Public Projects
