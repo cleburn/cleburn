@@ -10,7 +10,7 @@ Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate I
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/cleburnwalker) · [Email](mailto:cleburn.walker@gmail.com) · [Aegis](https://cleburn.github.io/)
+[LinkedIn](https://linkedin.com/in/cleburnwalker) · [Email](mailto:cleburn.walker@gmail.com) · [X](https://x.com/ewigelebens)
 
 ---
 
