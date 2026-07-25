@@ -4,7 +4,7 @@
 ## Background
 
 Bringing 10+ years of business leadership and real-world problem-solving to AI engineering.
-Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate Investor · Author
+Former U.S. Marine · Professional Athlete (MMA) · VP of Sales · Real Estate Investor · Author [If you're into this sort of thing](https://www.amazon.com/dp/B0G89D87C3?binding=paperback&ref_=saga_sdp_cft_dsk&qid=1765273033&sr=8-1)
 
 ---
 
