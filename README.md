@@ -3,7 +3,6 @@
 ---
 
 ## Contact
-
 [Email](mailto:cleburn.walker@gmail.com) · [LinkedIn](https://linkedin.com/in/cleburnwalker) · [X](https://x.com/ewigelebens)
 
 ---
