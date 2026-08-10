@@ -27,6 +27,8 @@ Stress-tested by generating compliant platforms in [defense](https://github.com/
 
 ## Other Public Projects
 
+**[Zenwolf ArchLinux/Hypr Dotfiles](https://github.com/cleburn/zenwolf-dotfiles)**
+
 **[Kalshi Longshot Maker](https://github.com/cleburn/market-maker-bot)**
 
 **[Real Estate Investment Analyzer (repo)](https://github.com/cleburn/property-analyst-pro)** · [Live App](https://property-analyst-pro.streamlit.app/)
