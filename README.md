@@ -24,9 +24,7 @@ Much of my projects were built with AI agents, which raised its own problem wort
 
 **[Zenwolf ArchLinux/Hypr Dotfiles](https://github.com/cleburn/zenwolf-dotfiles)**
 
-**[Kalshi Longshot Maker](https://github.com/cleburn/market-maker-bot)**
-
-**[Real Estate Investment Analyzer (repo)](https://github.com/cleburn/property-analyst-pro)** · [Live App](https://property-analyst-pro.streamlit.app/)
+**[Real Estate Investment Analyzer (repo)](https://github.com/cleburn/property-analyst-pro)** · **[Live App](https://property-analyst-pro.streamlit.app/)**
 
 **[Amazon Ads Analytics](https://github.com/cleburn/amazon-ads-analytics)**
 
