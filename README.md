@@ -26,8 +26,6 @@ Much of my projects were built with AI agents, which raised its own problem wort
 
 **[Real Estate Investment Analyzer (repo)](https://github.com/cleburn/property-analyst-pro)**
 
-**[Amazon Ads Analytics](https://github.com/cleburn/amazon-ads-analytics)**
-
 ---
 
 ## Tech Stack
